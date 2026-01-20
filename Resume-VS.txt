@@ -31,7 +31,7 @@ EDUCATION
 
 TECHNICAL SKILLS
 
-	Cloud Platforms:		Google Cloud Platform (BigQuery, IAM, Compute, GCS, Cloud Functions, Firebase), Microsoft Azure
+	Cloud Platforms:		Google Cloud Platform (BigQuery, IAM, Compute, GCS, Cloud Functions, Firebase, Vertex AI, Pub/Sub, Eventarc), Microsoft Azure
 	Scheduling Tools:		Control-M, Cisco Tidal
 	ETL / BI / Data Tools:		Informatica PowerCenter, Denodo, dbt, Power BI, Looker, Crystal Reports, SSIS, SSRS
 	Scripting:			Unix Shell Scripting, PowerShell
@@ -49,6 +49,7 @@ PROFESSIONAL EXPERIENCE
 Infosys Ltd – Technology Lead
 April 2018 – Present
 
+	Led cloud-first transformation projects focused on migrating and modernizing legacy data platforms to GCP
 	Led cloud migration efforts for large-scale data systems:
 		- Oracle to GCP (BigQuery)
 		- SAS code/scripts to GCP BigQuery
@@ -56,17 +57,22 @@ April 2018 – Present
 		- Business Objects to Looker reporting platform
 		- Re-engineered SAS scripts into BigQuery SQL
 		- Used Denodo for interim data virtualization during hybrid cloud setup
-	Created and maintained Looker dashboards as part of Business Objects decommissioning
-	Experience designing, building, and optimizing data ingestion pipelines using Python and SQL
+		- Migrated legacy ML model from on-premises server to Vertex AI custom container deployment, reducing inference latency by 35% and cutting operational costs
+	Applied data modeling, optimization, and governance best practices across migrated data platforms
+	Used Denodo to virtualize on-prem and cloud datasets, bridging data access during phased migrations
+	Rebuilt enterprise reporting using Looker as part of Business Objects decommissioning initiative
+	Designed and developed data pipelines using dbt for transformation and orchestration, integrated with BigQuery
 	Developed and deployed data pipelines in Databricks, dbt, and Denodo for ETL workflows and data transformation tasks
 	Created Airflow orchestration workflows for API data ingestion into BigQuery, eliminating manual processes and ensuring data consistency
-	Automated data workflows and reporting via Unix Shell scripting
+	Built real-time event-driven ingestion pipelines using GCP Pub/Sub and Eventarc to automate data loading from Cloud Storage to BigQuery
+	Automated data workflows and reporting via Unix Shell scripting, SQL, and GCP Cloud Functions
 	Developed and optimized SQL/PLSQL procedures and job orchestration logic
 	Worked closely with GCP Architects on provisioning, IAM policies, and resource setup
 	Implemented GitOps practices for infrastructure-as-code, application deployment pipelines, and self-service access control
 	Built and maintained CI/CD pipelines using GitHub Actions for automated testing, deployment, and continuous integration workflows
 	Automated build-to-deploy pipeline using GitHub Actions with Maven to create Fat JARs with bundled dependencies and published artifacts to JFrog Artifactory
 	Developed GitHub Actions workflows to automate container image migration from public repositories to Azure Container Registry
+	Implemented system and pipeline monitoring using Prometheus and Grafana with real-time alerting for operational visibility
 	Monitored data loads using Teradata Viewpoint, tuning long-running queries
 	Managed Control-M and Informatica job chains across production
 	Provided L1/L2/L3 support, handling incidents, root cause analysis, and resolution
