@@ -1,0 +1,89 @@
+Eloi Elimelech
+📧 me@eloi.in | eloi.elimelech@gmail.com
+📱 +91 77027 89897
+
+
+PROFESSIONAL SUMMARY
+
+	Experienced IT professional with 14+ years of expertise in Data Engineering, Cloud Migration, and Database/Application Support, with a focus on delivering modern data solutions on cloud platforms.
+	Led multiple large-scale cloud migration projects from legacy systems (Oracle, SAS, Business Objects) to modern cloud platforms (GCP BigQuery, Looker)
+	Hands-on with Google Cloud Platform (GCP) and Microsoft Azure, including IAM, BigQuery, Compute Engine, and Cloud Storage
+	Built interactive dashboards and self-service reports in Looker to replace legacy reporting
+	Experience with modern data stack tools such as dbt, Denodo, and Informatica PowerCenter
+	Strong scripting and automation using Unix Shell, PowerShell, and SQL/PLSQL for workflow and job orchestration
+	Applied GitOps principles to infrastructure and application delivery
+	Proficient in scheduling tools like Control-M, Cisco Tidal, and Oozie
+	Delivered consistent 24x7 L1/L2/L3 support across on-prem and cloud data platforms, ensuring SLA adherence and issue resolution
+
+
+CERTIFICATIONS
+
+	Microsoft Certified: Azure AI Engineer Associate (A1-102) – 2026
+	Google Cloud Certified – Associate Cloud Engineer – 2025
+	Microsoft Certified: Azure Administrator Associate (AZ-104) – 2021
+	Microsoft Certified: Azure Fundamentals (AZ-900) – 2021
+
+
+EDUCATION
+
+	B.Tech in Computer Science, SMEC – JNTU
+	Diploma in Computer Science, VMR – SBTET
+
+
+TECHNICAL SKILLS
+
+	Cloud Platforms:		Google Cloud Platform (BigQuery, IAM, Compute, GCS), Microsoft Azure
+	Scheduling Tools:		Control-M, Cisco Tidal, Oozie
+	ETL / BI / Data Tools:		Informatica PowerCenter, Denodo, dbt, Power BI, Looker, Crystal Reports
+	Scripting:			Unix Shell Scripting, PowerShell
+	Databases:			Teradata, Oracle, SQL Server
+	Languages:			SQL, PL/SQL, C, C#.NET, PHP, Perl, Python, Java, JavaScript, Visual Basic
+	Operating Systems:		UNIX (Solaris, HP-UX), Windows
+	Ticketing & Monitoring:		Remedy, ServiceNow, xMatters, WebEx
+	DevOps & Cloud Tools:		Docker, Kubernetes, Helm, ArgoCd, GitHub Actions, Grafana, Prometheus, Terraform
+
+
+PROFESSIONAL EXPERIENCE
+
+Infosys Ltd – Technology Lead
+April 2018 – Present
+
+	Led cloud migration efforts for large-scale data systems:
+		- Oracle to GCP (BigQuery)
+		- SAS code/scripts to GCP BigQuery
+		- Oracle to GCP using Denodo for virtualization
+		- Business Objects to Looker reporting platform
+		- Re-engineered SAS scripts into BigQuery SQL
+		- Used Denodo for interim data virtualization during hybrid cloud setup
+	Created and maintained Looker dashboards as part of Business Objects decommissioning
+	Experience designing, building, and optimizing data ingestion pipelines using Python and SQL
+	Automated data workflows and reporting via Unix Shell scripting
+	Developed and optimized SQL/PLSQL procedures and job orchestration logic
+	Worked closely with GCP Architects on provisioning, IAM policies, and resource setup
+	Monitored data loads using Teradata Viewpoint, tuning long-running queries
+	Managed Control-M and Informatica job chains across production
+	Provided L1/L2/L3 support, handling incidents, root cause analysis, and resolution
+
+
+NTT DATA – DBA / Application Support Engineer
+July 2014 – April 2018
+
+	Supported cloud and on-prem data pipelines across Teradata, Oracle, and SQL Server
+	Managed Informatica and Tidal job failures, performance tuning, and dependency handling
+	Wrote shell scripts for automated job monitoring and file tracking
+	Validated new jobs before deployment and coordinated production release activities
+	Created custom SQL reports, responded to support tickets, and ensured SLA compliance
+	Delivered 24x7 L1/L2/L3 support in a global, multi-team environment
+
+
+Datum Info Systems – DBA / Developer
+Nov 2010 – July 2014
+
+	Designed and developed full-stack enterprise solutions utilizing C#, WinForms for internal desktop tools, and ASP.NET Web Forms for external web portals
+	Architected robust data access layers using ADO.NET and Typed DataSets, optimizing communication between client applications and SQL Server 2008 R2 databases
+	Modernized legacy web interfaces by integrating AJAX UpdatePanels and jQuery, significantly improving user experience by reducing full-page postbacks
+	Developed and maintained WCF (SOAP) services to centralize business logic, enabling seamless data exchange between desktop and web platforms
+	Authored and optimized complex T-SQL stored procedures, triggers, and views to handle high-volume data processing and ensure transactional integrity
+	Managed the full software development lifecycle (SDLC) using Visual Studio 2010/2012 and Team Foundation Server (TFS) for version control
+	Built and maintained application installers using Visual Studio Setup Projects (MSI) and InstallShield, ensuring proper handling of .NET Framework prerequisites and registry configurations
+
