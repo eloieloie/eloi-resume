@@ -58,10 +58,14 @@ April 2018 – Present
 		- Used Denodo for interim data virtualization during hybrid cloud setup
 	Created and maintained Looker dashboards as part of Business Objects decommissioning
 	Experience designing, building, and optimizing data ingestion pipelines using Python and SQL
+	Developed and deployed data pipelines in Databricks, dbt, and Denodo for ETL workflows and data transformation tasks
+	Created Airflow orchestration workflows for API data ingestion into BigQuery, eliminating manual processes and ensuring data consistency
 	Automated data workflows and reporting via Unix Shell scripting
 	Developed and optimized SQL/PLSQL procedures and job orchestration logic
 	Worked closely with GCP Architects on provisioning, IAM policies, and resource setup
 	Implemented GitOps practices for infrastructure-as-code, application deployment pipelines, and self-service access control
+	Built and maintained CI/CD pipelines using GitHub Actions for automated testing, deployment, and continuous integration workflows
+	Developed GitHub Actions workflows to automate container image migration from public repositories to Azure Container Registry
 	Monitored data loads using Teradata Viewpoint, tuning long-running queries
 	Managed Control-M and Informatica job chains across production
 	Provided L1/L2/L3 support, handling incidents, root cause analysis, and resolution
@@ -75,21 +79,16 @@ July 2014 – April 2018
 	Collaborated with cross-functional teams to troubleshoot file delays, dependency issues, and job failures
 	Managed Teradata environments using Administrator and Viewpoint for monitoring database performance, blocked/idle sessions, and query optimization
 	Analyzed load performance and stability using Teradata Viewpoint by comparing against historical run data
-	Created and maintained physical database objects including tables, views, indexes, macros, and stored procedures
 	Developed SQL/PL-SQL stored procedures, triggers, packages, and functions for data processing and automation
-	Administered user accounts, roles, profiles, and access rights management across database platforms
-	Performed backup and restore operations using TARA and arcmain utilities
 	Optimized query performance using Teradata Explain plan feature and collaborated with DBAs to tune long-running queries
 	Wrote UNIX shell scripts for automated job monitoring, file tracking, and process automation invoking stored procedures and views
 	Created custom reports and automated monitoring solutions using shell scripting to track file processing and job statuses
-	Executed DDL/DML change requests and responded to adhoc client queries via Remedy Queue
+	Automated daily status report generation and scheduled distribution to stakeholders across multiple teams
+	Managed database administration tasks including object creation, user/role management, backup/restore operations using TARA and arcmain, and DDL/DML change execution
 	Validated and tested new Informatica and Tidal jobs prior to production deployment
-	Conducted database maintenance activities including Check Table and Pack Disk operations
 	Attended global BI meetings and coordinated activities across Oracle, SQL Server, and Teradata platforms
 	Developed and executed test plans, test cases, and regression tests for data quality and functional validation
 	Automated test packs and maintained test automation tools for continuous integration
-	Generated daily status reports for management and stakeholders
-	Provided effort estimation and timelines for change requests and project deliverables
 	Delivered 24x7 L1/L2/L3 support ensuring SLA adherence and timely issue resolution in a global, multi-team environment
 
 
