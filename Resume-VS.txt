@@ -70,12 +70,27 @@ April 2018 – Present
 NTT DATA – DBA / Application Support Engineer
 July 2014 – April 2018
 
-	Supported cloud and on-prem data pipelines across Teradata, Oracle, and SQL Server
-	Managed Informatica and Tidal job failures, performance tuning, and dependency handling
-	Wrote shell scripts for automated job monitoring and file tracking
-	Validated new jobs before deployment and coordinated production release activities
-	Created custom SQL reports, responded to support tickets, and ensured SLA compliance
-	Delivered 24x7 L1/L2/L3 support in a global, multi-team environment
+	Provided 24x7 production support across cloud and on-prem data pipelines for Teradata, Oracle, and SQL Server
+	Managed Informatica workflows and scheduler jobs in Tidal and Control-M, ensuring SLA compliance based on job criticality
+	Collaborated with cross-functional teams to troubleshoot file delays, dependency issues, and job failures
+	Managed Teradata environments using Administrator and Viewpoint for monitoring database performance, blocked/idle sessions, and query optimization
+	Analyzed load performance and stability using Teradata Viewpoint by comparing against historical run data
+	Created and maintained physical database objects including tables, views, indexes, macros, and stored procedures
+	Developed SQL/PL-SQL stored procedures, triggers, packages, and functions for data processing and automation
+	Administered user accounts, roles, profiles, and access rights management across database platforms
+	Performed backup and restore operations using TARA and arcmain utilities
+	Optimized query performance using Teradata Explain plan feature and collaborated with DBAs to tune long-running queries
+	Wrote UNIX shell scripts for automated job monitoring, file tracking, and process automation invoking stored procedures and views
+	Created custom reports and automated monitoring solutions using shell scripting to track file processing and job statuses
+	Executed DDL/DML change requests and responded to adhoc client queries via Remedy Queue
+	Validated and tested new Informatica and Tidal jobs prior to production deployment
+	Conducted database maintenance activities including Check Table and Pack Disk operations
+	Attended global BI meetings and coordinated activities across Oracle, SQL Server, and Teradata platforms
+	Developed and executed test plans, test cases, and regression tests for data quality and functional validation
+	Automated test packs and maintained test automation tools for continuous integration
+	Generated daily status reports for management and stakeholders
+	Provided effort estimation and timelines for change requests and project deliverables
+	Delivered 24x7 L1/L2/L3 support ensuring SLA adherence and timely issue resolution in a global, multi-team environment
 
 
 Datum Info Systems – DBA / Developer
