@@ -11,8 +11,7 @@ PROFESSIONAL SUMMARY
 	Built interactive dashboards and self-service reports in Looker to replace legacy reporting
 	Experience with modern data stack tools such as dbt, Denodo, and Informatica PowerCenter
 	Strong scripting and automation using Unix Shell, PowerShell, and SQL/PLSQL for workflow and job orchestration
-	Applied GitOps principles to infrastructure and application delivery
-	Proficient in scheduling tools like Control-M, Cisco Tidal, and Oozie
+	Proficient in scheduling tools like Control-M and Cisco Tidal
 	Delivered consistent 24x7 L1/L2/L3 support across on-prem and cloud data platforms, ensuring SLA adherence and issue resolution
 
 
@@ -33,14 +32,16 @@ EDUCATION
 TECHNICAL SKILLS
 
 	Cloud Platforms:		Google Cloud Platform (BigQuery, IAM, Compute, GCS), Microsoft Azure
-	Scheduling Tools:		Control-M, Cisco Tidal, Oozie
-	ETL / BI / Data Tools:		Informatica PowerCenter, Denodo, dbt, Power BI, Looker, Crystal Reports
+	Scheduling Tools:		Control-M, Cisco Tidal
+	ETL / BI / Data Tools:		Informatica PowerCenter, Denodo, dbt, Power BI, Looker, Crystal Reports, SSIS, SSRS
 	Scripting:			Unix Shell Scripting, PowerShell
-	Databases:			Teradata, Oracle, SQL Server
-	Languages:			SQL, PL/SQL, C, C#.NET, PHP, Perl, Python, Java, JavaScript, Visual Basic
+	Databases:			Teradata, Oracle, SQL Server (2008 R2/2012), T-SQL
+	Languages:			SQL, PL/SQL, Python, Java, Scala, C, C#.NET (Framework 3.5/4.0/4.5), PHP, Perl, JavaScript (jQuery, AJAX), Visual Basic (VB.NET)
+	Web & Desktop Technologies:	ASP.NET Web Forms, WinForms, WCF (SOAP/REST), Web Services (ASMX), ADO.NET, LINQ to SQL
 	Operating Systems:		UNIX (Solaris, HP-UX), Windows
-	Ticketing & Monitoring:		Remedy, ServiceNow, xMatters, WebEx
-	DevOps & Cloud Tools:		Docker, Kubernetes, Helm, ArgoCd, GitHub Actions, Grafana, Prometheus, Terraform
+	Ticketing & Monitoring:		Remedy, ServiceNow, xMatters, WebEx, Team Foundation Server (TFS), SVN
+	DevOps & Cloud Tools:		Docker, Kubernetes, Helm, ArgoCD, GitHub Actions, Grafana, Prometheus, Terraform
+	Deployment & Packaging:		MSI (Visual Studio Setup Projects), InstallShield, IIS 7.0/7.5
 
 
 PROFESSIONAL EXPERIENCE
@@ -60,6 +61,7 @@ April 2018 – Present
 	Automated data workflows and reporting via Unix Shell scripting
 	Developed and optimized SQL/PLSQL procedures and job orchestration logic
 	Worked closely with GCP Architects on provisioning, IAM policies, and resource setup
+	Implemented GitOps practices for infrastructure-as-code, application deployment pipelines, and self-service access control
 	Monitored data loads using Teradata Viewpoint, tuning long-running queries
 	Managed Control-M and Informatica job chains across production
 	Provided L1/L2/L3 support, handling incidents, root cause analysis, and resolution
