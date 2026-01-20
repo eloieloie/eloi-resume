@@ -1,11 +1,11 @@
 Eloi Elimelech
 📧 me@eloi.in | eloi.elimelech@gmail.com
-📱 +91 77027 89897
+📱 +47 92089654 | +91 77027 89897
 
 
 PROFESSIONAL SUMMARY
 
-	Experienced IT professional with 14+ years of expertise in Data Engineering, Cloud Migration, and Database/Application Support, specializing in delivering modern cloud-native data solutions on GCP and Azure platforms.
+	Experienced IT professional with 15+ years of expertise in Data Engineering, Cloud Migration, and Database/Application Support, specializing in delivering modern cloud-native data solutions on GCP and Azure platforms.
 	Led cloud-first transformation initiatives migrating legacy data platforms (Oracle, SAS, Business Objects) to modern cloud architectures using BigQuery, Databricks, dbt, and Looker with proven performance improvements
 	Architected and deployed real-time event-driven data pipelines using GCP Pub/Sub, Eventarc, Airflow, and Cloud Functions for automated data ingestion and processing
 	Migrated ML models to Vertex AI, achieving 35% latency reduction and operational cost savings through containerized cloud deployments
@@ -33,11 +33,11 @@ EDUCATION
 
 TECHNICAL SKILLS
 
-	Cloud Platforms:		Google Cloud Platform (BigQuery, IAM, Compute, GCS, Cloud Functions, Firebase, Vertex AI, Pub/Sub, Eventarc), Microsoft Azure
+	Cloud Platforms:		Google Cloud Platform (BigQuery, IAM, Compute, GCS, Cloud Functions, Firebase, Vertex AI, Pub/Sub, Eventarc), Microsoft Azure (ADF, Blob Storage, Container Registry)
+  ETL / BI / Data Tools:		Informatica PowerCenter, Denodo, dbt, Power BI, Looker, Crystal Reports, SSIS, SSRS, Azure Data Factory (ADF)
+  Databases:			Teradata, Oracle, SQL Server (2008 R2/2012), T-SQL, Snowflake, Firebase (NoSQL)
 	Scheduling Tools:		Control-M, Cisco Tidal
-	ETL / BI / Data Tools:		Informatica PowerCenter, Denodo, dbt, Power BI, Looker, Crystal Reports, SSIS, SSRS
 	Scripting:			Unix Shell Scripting, PowerShell
-	Databases:			Teradata, Oracle, SQL Server (2008 R2/2012), T-SQL, Firebase (NoSQL)
 	Languages:			SQL, PL/SQL, Python, Java, Scala, C, C#.NET (Framework 3.5/4.0/4.5), PHP, Perl, JavaScript (jQuery, AJAX), Visual Basic (VB.NET)
 	Web & Desktop Technologies:	ASP.NET Web Forms, WinForms, WCF (SOAP/REST), RESTful Web Services, Web Services (ASMX), ADO.NET, LINQ to SQL, Vue.js, Nuxt.js, Node.js, npm
 	Operating Systems:		UNIX (Solaris, HP-UX), Windows
@@ -65,6 +65,7 @@ April 2018 – Present
 	Rebuilt enterprise reporting using Looker as part of Business Objects decommissioning initiative
 	Designed and developed data pipelines using dbt for transformation and orchestration, integrated with BigQuery
 	Developed and deployed data pipelines in Databricks, dbt, and Denodo for ETL workflows and data transformation tasks
+	Created data integration pipelines in Azure Data Factory (ADF) for reading and writing data to and from Salesforce API
 	Created Airflow orchestration workflows for API data ingestion into BigQuery, eliminating manual processes and ensuring data consistency
 	Built real-time event-driven ingestion pipelines using GCP Pub/Sub and Eventarc to automate data loading from Cloud Storage to BigQuery
 	Automated data workflows and reporting via Unix Shell scripting, SQL, and GCP Cloud Functions
@@ -75,6 +76,7 @@ April 2018 – Present
 	Automated build-to-deploy pipeline using GitHub Actions with Maven to create Fat JARs with bundled dependencies and published artifacts to JFrog Artifactory
 	Developed GitHub Actions workflows to automate container image migration from public repositories to Azure Container Registry
 	Implemented system and pipeline monitoring using Prometheus and Grafana with real-time alerting for operational visibility
+  Experience with Snowflake cloud data warehouse and Azure bucket for integrating data from multiple source systems which include loading nested JSON formatted data into snowflake tables.
 	Monitored data loads using Teradata Viewpoint, tuning long-running queries
 	Managed Control-M and Informatica job chains across production
 	Provided L1/L2/L3 support, handling incidents, root cause analysis, and resolution
