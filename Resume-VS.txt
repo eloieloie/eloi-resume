@@ -5,14 +5,16 @@ Eloi Elimelech
 
 PROFESSIONAL SUMMARY
 
-	Experienced IT professional with 14+ years of expertise in Data Engineering, Cloud Migration, and Database/Application Support, with a focus on delivering modern data solutions on cloud platforms.
-	Led multiple large-scale cloud migration projects from legacy systems (Oracle, SAS, Business Objects) to modern cloud platforms (GCP BigQuery, Looker)
-	Hands-on with Google Cloud Platform (GCP) and Microsoft Azure, including IAM, BigQuery, Compute Engine, and Cloud Storage
-	Built interactive dashboards and self-service reports in Looker to replace legacy reporting
-	Experience with modern data stack tools such as dbt, Denodo, and Informatica PowerCenter
-	Strong scripting and automation using Unix Shell, PowerShell, and SQL/PLSQL for workflow and job orchestration
-	Proficient in scheduling tools like Control-M and Cisco Tidal
-	Delivered consistent 24x7 L1/L2/L3 support across on-prem and cloud data platforms, ensuring SLA adherence and issue resolution
+	Experienced IT professional with 14+ years of expertise in Data Engineering, Cloud Migration, and Database/Application Support, specializing in delivering modern cloud-native data solutions on GCP and Azure platforms.
+	Led cloud-first transformation initiatives migrating legacy data platforms (Oracle, SAS, Business Objects) to modern cloud architectures using BigQuery, Databricks, dbt, and Looker with proven performance improvements
+	Architected and deployed real-time event-driven data pipelines using GCP Pub/Sub, Eventarc, Airflow, and Cloud Functions for automated data ingestion and processing
+	Migrated ML models to Vertex AI, achieving 35% latency reduction and operational cost savings through containerized cloud deployments
+	Hands-on expertise with modern data stack: BigQuery, Databricks, dbt, Denodo, Airflow, and Informatica PowerCenter
+	Implemented GitOps and CI/CD pipelines using GitHub Actions for infrastructure-as-code, automated testing, and continuous deployment workflows
+	Strong proficiency in Python, SQL, PL/SQL, Scala, and shell scripting for data pipeline development and automation
+	Applied data modeling, optimization, and governance best practices across enterprise-scale data platforms
+	Built comprehensive monitoring solutions using Prometheus and Grafana with real-time alerting for operational excellence
+	Delivered consistent 24x7 L1/L2/L3 production support across hybrid cloud and on-prem environments, ensuring SLA compliance
 
 
 CERTIFICATIONS
