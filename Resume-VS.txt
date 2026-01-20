@@ -51,6 +51,11 @@ PROFESSIONAL EXPERIENCE
 Infosys Ltd – Technology Lead
 April 2018 – Present
 
+Clients:
+		- T-Mobile
+    - Sunrise - UPC
+    - Telenor (2023 - till date)
+
 	Led cloud-first transformation projects focused on migrating and modernizing legacy data platforms to GCP
 	Led cloud migration efforts for large-scale data systems:
 		- Oracle to GCP (BigQuery)
@@ -84,6 +89,9 @@ April 2018 – Present
 
 NTT DATA – DBA / Application Support Engineer
 July 2014 – April 2018
+
+Clients:
+		- T-Mobile 
 
 	Provided 24x7 production support across cloud and on-prem data pipelines for Teradata, Oracle, and SQL Server
 	Managed Informatica workflows and scheduler jobs in Tidal and Control-M, ensuring SLA compliance based on job criticality
