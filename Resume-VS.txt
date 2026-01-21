@@ -40,10 +40,10 @@ TECHNICAL SKILLS
 	Scheduling Tools:		Control-M, Cisco Tidal
 	Scripting:			Unix Shell Scripting, PowerShell
 	Languages:			SQL, PL/SQL, Python, Java, Scala, C, C#.NET (Framework 3.5/4.0/4.5), PHP, Perl, JavaScript (jQuery, AJAX), Visual Basic (VB.NET)
-	Web & Desktop Technologies:	ASP.NET Web Forms, WinForms, WCF (SOAP/REST), RESTful Web Services, Web Services (ASMX), ADO.NET, LINQ to SQL, Vue.js, Nuxt.js, Node.js, npm
+	Web & Desktop Technologies:	ASP.NET Web Forms, WinForms, WCF (SOAP/REST), RESTful Web Services, Web Services (ASMX), ADO.NET, LINQ to SQL, Vue.js, Nuxt.js, Node.js
 	Operating Systems:		UNIX (Solaris, HP-UX), Windows
-	Ticketing & Monitoring:		Remedy, ServiceNow, xMatters, WebEx, Team Foundation Server (TFS), SVN
-	DevOps & Cloud Tools:		Docker, Kubernetes, Helm, ArgoCD, GitHub Actions, Grafana, Prometheus, Terraform, Maven, JFrog Artifactory
+	Ticketing & Monitoring:		Remedy, ServiceNow, xMatters, WebEx, Jira, Confluence
+	DevOps & Cloud Tools:		Git, GitHub Actions, TFS, SVN, Docker, Kubernetes, Helm, ArgoCD, Grafana, Prometheus, Terraform, Maven, JFrog Artifactory
 	Deployment & Packaging:		MSI (Visual Studio Setup Projects), InstallShield, IIS 7.0/7.5, Firebase Hosting
 
 
