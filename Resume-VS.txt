@@ -7,8 +7,9 @@ PROFESSIONAL SUMMARY
 
 	Experienced IT professional with 15+ years of expertise in Data Engineering, Cloud Migration, and Database/Application Support, specializing in delivering modern cloud-native data solutions on GCP and Azure platforms.
 	Led cloud-first transformation initiatives migrating legacy data platforms (Oracle, SAS, Business Objects) to modern cloud architectures using BigQuery, Databricks, dbt, and Looker with proven performance improvements
-	Architected and deployed real-time event-driven data pipelines using GCP Pub/Sub, Eventarc, Airflow, and Cloud Functions for automated data ingestion and processing
+	Architected and deployed real-time event-driven data pipelines using GCP Pub/Sub (messaging service), Eventarc, Airflow, and Cloud Functions for automated data ingestion and processing
 	Migrated ML models to Vertex AI, achieving 35% latency reduction and operational cost savings through containerized cloud deployments
+	Designed, developed, and automated complex ETL and ELT workflows using Azure Data Factory, Databricks, Airflow, dbt, Python, and PySpark to process and transform large-scale datasets
 	Hands-on expertise with modern data stack: BigQuery, Databricks, dbt, Denodo, Airflow, and Informatica PowerCenter
 	Implemented GitOps and CI/CD pipelines using GitHub Actions for infrastructure-as-code, automated testing, and continuous deployment workflows
 	Strong proficiency in Python, SQL, PL/SQL, Scala, and shell scripting for data pipeline development and automation
@@ -48,12 +49,12 @@ TECHNICAL SKILLS
 
 PROFESSIONAL EXPERIENCE
 
-Infosys Ltd – Technology Lead
+Infosys Ltd – Technology Lead.
 April 2018 – Present
 
 Clients:
-		- T-Mobile
-    - Sunrise - UPC
+		- T-Mobile - (2018 - 2022)
+    - Sunrise - UPC (2022 - 2023)
     - Telenor (2023 - till date)
 
 	Led cloud-first transformation projects focused on migrating and modernizing legacy data platforms to GCP
