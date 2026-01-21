@@ -60,7 +60,7 @@ Clients:
 	Led cloud-first transformation projects focused on migrating and modernizing legacy data platforms to GCP
 	Led cloud migration efforts for large-scale data systems:
 		- Oracle to GCP (BigQuery)
-		- SAS code/scripts to GCP BigQuery
+		- SAS code/scripts to Dbt
 		- Oracle to GCP using Denodo for virtualization
 		- Business Objects to Looker reporting platform
 		- Re-engineered SAS scripts into BigQuery SQL
